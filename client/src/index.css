@@ -17,3 +17,10 @@ body,
 #root {
     height: 100%;
 }
+
+
+.column-container {
+    background: linear-gradient(45deg, #ffffff 0%, #f9f9f9 100%);
+    border: 1px solid #e2e2e5;
+    filter: drop-shadow(0 10px 10px rgba(76, 76, 109, .07059));
+}
