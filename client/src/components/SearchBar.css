@@ -1,0 +1,14 @@
+.search-bar {
+    border: 1px solid #D4D4D8;
+    outline: 1px solid transparent;
+    will-change: outline-color;
+    transition: outline-color 0.3s;
+}
+
+.search-bar:hover {
+    outline: 1px solid black;
+}
+
+.search-bar:focus {
+    outline: 1px solid black;
+}

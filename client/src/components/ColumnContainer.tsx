@@ -1,5 +1,6 @@
 import CardContainer from "./CardContainer";
 import ColumnTitle from "./ColumnTitle";
+import './ColumnContainer.css'
 
 export default function ColumnContainer() {
     return (
