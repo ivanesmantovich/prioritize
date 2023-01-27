@@ -16,7 +16,7 @@ export default function SearchBar() {
     return (
         <form role="search" className='flex justify-center pb-4'>
             <input
-                className='search-bar h-10 w-3/6 px-2 rounded-lg mr-1'
+                className='search-bar h-10 w-3/6 px-2 rounded-lg mr-2'
                 onFocus={ playSearchAnimation } />
             <Player
                 ref={ playerRef }
